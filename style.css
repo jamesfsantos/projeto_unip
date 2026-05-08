@@ -3,11 +3,33 @@
     
 }
 
-.cabecalho {
+.cabecalho, .principal, .rodape {
     background-color: #C4FFC4;
 }
 
 .imagem {
     width: 400px;
     height: 300px;
+}
+
+
+.principal{
+    padding: 30px;
+    border-radius: 25px;
+    min-height: 80vh;
+}
+
+.rodape {
+    height: 20vh;
+}
+
+@media  (max-width: 767px){
+    .imagem {
+        width: 200px;
+        height: 100px;
+    }
+}
+
+.container {
+    border: 1px solid black;   
 }
