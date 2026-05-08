@@ -1,3 +1,20 @@
 .titulo-descarte {
     text-align: center;
 }
+
+.imagem-lixo {
+    
+    max-width: 500px;
+    border: 5px solid #067a19;
+    border-radius: 5px;
+}
+
+.texto-lixo {
+    /* border: 1px solid black; */
+    
+}
+
+.referencia {
+    text-align: right;
+}
+
