@@ -1,0 +1,182 @@
+[
+  {
+    "nome": "Leroy Merlin - Tietê",
+    "endereco": "Av. Presidente Castelo Branco, 6061",
+    "lat": -23.5182,
+    "lng": -46.6817
+  },
+  {
+    "nome": "Telhanorte PRO - Água Branca",
+    "endereco": "Av. Presidente Castelo Branco, 7849",
+    "lat": -23.5186,
+    "lng": -46.6912
+  },
+  {
+    "nome": "Cencosud Brasil Atacado",
+    "endereco": "Av. Otaviano Alves de Lima, 2758",
+    "lat": -23.5115,
+    "lng": -46.6748
+  },
+  {
+    "nome": "Springer Carrier - Abree",
+    "endereco": "Av. Ermano Marchetti, 974",
+    "lat": -23.5198,
+    "lng": -46.6978
+  },
+  {
+    "nome": "Alea Eletro Comercial",
+    "endereco": "Rua Catão, 72",
+    "lat": -23.5305,
+    "lng": -46.6965
+  },
+  {
+    "nome": "Casas Bahia - Lapa 3",
+    "endereco": "R. Nossa Senhora Da Lapa, 85",
+    "lat": -23.5321,
+    "lng": -46.7005
+  },
+  {
+    "nome": "Casas Bahia - Lapa 4",
+    "endereco": "R. Dr. Cincinato Pamponet, 161",
+    "lat": -23.5318,
+    "lng": -46.7012
+  },
+  {
+    "nome": "Fast Shop - Bourbon Shopping",
+    "endereco": "R. Palestra Itália",
+    "lat": -23.5271,
+    "lng": -46.6789
+  },
+  {
+    "nome": "Magazine Luiza - Lapa",
+    "endereco": "R. Nossa Senhora Da Lapa, 112",
+    "lat": -23.5323,
+    "lng": -46.7008
+  },
+  {
+    "nome": "Lojas Americanas - Lapa",
+    "endereco": "R. Doze De Outubro, 92",
+    "lat": -23.5301,
+    "lng": -46.7025
+  },
+  {
+    "nome": "Telefônica Brasil - Perdizes",
+    "endereco": "R. Palestra Itália, 500",
+    "lat": -23.5275,
+    "lng": -46.6785
+  },
+  {
+    "nome": "Magazine Luiza - 12 de Outubro",
+    "endereco": "R. Doze De Outubro, 357",
+    "lat": -23.5298,
+    "lng": -46.7045
+  },
+  {
+    "nome": "Senac Lapa Tito",
+    "endereco": "R. Tito, 54",
+    "lat": -23.5292,
+    "lng": -46.6982
+  },
+  {
+    "nome": "TIM - Perdizes",
+    "endereco": "R. Turiassu, 2100",
+    "lat": -23.5268,
+    "lng": -46.6802
+  },
+  {
+    "nome": "VMT Telecom - Perdizes",
+    "endereco": "R. Turiassu, 2100",
+    "lat": -23.5268,
+    "lng": -46.6802
+  },
+  {
+    "nome": "TIM - Lapa",
+    "endereco": "R. Doze De Outubro, 443",
+    "lat": -23.5295,
+    "lng": -46.7052
+  },
+  {
+    "nome": "Casas Bahia - Lapa 2",
+    "endereco": "R. Doze De Outubro, 432",
+    "lat": -23.5296,
+    "lng": -46.7051
+  },
+  {
+    "nome": "Carrefour - Limão",
+    "endereco": "Av. Professor Celestino Bourroul, 151",
+    "lat": -23.5132,
+    "lng": -46.6668
+  },
+  {
+    "nome": "Casas Bahia - Limão",
+    "endereco": "Av. Prof. Celestino Bourroul, 847",
+    "lat": -23.5098,
+    "lng": -46.6705
+  },
+  {
+    "nome": "Magazine Luiza - Limão",
+    "endereco": "Av. Professor Celestino Bourroul, 380",
+    "lat": -23.5112,
+    "lng": -46.6685
+  },
+  {
+    "nome": "Magazine Luiza - Limão 2",
+    "endereco": "Av. Professor Celestino Bourroul, 858",
+    "lat": -23.5097,
+    "lng": -46.6710
+  },
+  {
+    "nome": "Lenovo - São Paulo",
+    "endereco": "R. Werner Von Siemens, 111",
+    "lat": -23.5155,
+    "lng": -46.7042
+  },
+  {
+    "nome": "Sodimac Dicico - Marginal",
+    "endereco": "Av. Thomas Edison, 1324",
+    "lat": -23.5245,
+    "lng": -46.6612
+  },
+  {
+    "nome": "Terminal Rod. Barra Funda",
+    "endereco": "R. Jornalista Aloysio Biondi, S/Nº",
+    "lat": -23.5258,
+    "lng": -46.6661
+  },
+  {
+    "nome": "Tec Master - Epson",
+    "endereco": "R. Manuel Madruga, 87",
+    "lat": -23.5015,
+    "lng": -46.6985
+  },
+  {
+    "nome": "Arena Essipe",
+    "endereco": "Rua Inhauma, 71",
+    "lat": -23.5235,
+    "lng": -46.6625
+  },
+  {
+    "nome": "Senac - Pompéia",
+    "endereco": "Av. Francisco Matarazzo, 249",
+    "lat": -23.5242,
+    "lng": -46.6725
+  },
+  {
+    "nome": "Viva Bem - iWRC",
+    "endereco": "Av. Pres. Castelo Branco, 7729",
+    "lat": -23.5185,
+    "lng": -46.6895
+  },
+  {
+    "nome": "VMT Telecom - Pirituba",
+    "endereco": "Av. Raimundo P. De Magalhães, 11001",
+    "lat": -23.4682,
+    "lng": -46.7355
+  },
+  {
+    "nome": "Magazine Luiza - Jd Iris",
+    "endereco": "Av. Raimundo Pereira De Magalhães, 1465",
+    "lat": -23.5028,
+    "lng": -46.7185
+  }
+]

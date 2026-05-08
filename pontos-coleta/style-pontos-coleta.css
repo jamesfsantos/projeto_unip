@@ -1,3 +1,18 @@
 .titulo-coleta {
     text-align: center;
 }
+
+#map {
+  height: 400px;
+  border-radius: 12px;
+}
+
+.lista-enderecos {
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+    
+}
+
+
+
