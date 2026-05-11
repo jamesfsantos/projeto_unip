@@ -34,6 +34,7 @@ function atualizarInterface(lat, lng, titulo) {
 
   proximos.forEach((p) => { // Loop ele percorre os 3 endereços pré-definidos na função encontrarPontosProximos();
     const li = document.createElement("li"); // Cria um elemento li
+    li.classList = "item-lista"
     li.innerHTML = `<strong>${p.nome}</strong><br><small>${p.distancia.toFixed(2)} km</small>`; // Na lista é exibido o nome da localização e a distância da sua localização até ela!
     li.onclick = () => map.flyTo([p.lat, p.lng], 17); // Quando você clica no endereço o mapa redireciona até o endereço clicado....
     listaUl.appendChild(li); // adiciona essas Li dentro da UL

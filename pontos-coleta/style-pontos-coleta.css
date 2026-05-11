@@ -11,8 +11,13 @@
     padding: 10px;
     border: 1px solid black;
     text-align: center;
+    background-color: white;
     
 }
 
+.item-lista {
+    text-align: left;
+    margin-bottom: 3px;
+}
 
 
