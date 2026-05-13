@@ -534,45 +534,51 @@ body {
   letter-spacing: 0.05em;
 }
 
-/* HAMBURGUER Botao */
-.navbar-toggler {
-  padding: 4px 8px;
+.cabecalho .navbar-toggler {
+  border: none !important;
+  background: transparent;
+  padding: 0 !important;
+  width: 32px;
+  height: 24px;
+  position: relative;
 }
 
-.navbar-toggler:focus {
+.cabecalho .navbar-toggler:focus {
   box-shadow: none !important;
 }
 
-
-.navbar-toggler-icon {
+.cabecalho .navbar-toggler-icon {
   background-image: none !important;
-  width: 24px;
-  height: 2px;
-  background: var(--verde-primario);
-  position: relative;
+  width: 100%;
+  height: 3px;
+  background-color: var(--verde-primario);
+  border-radius: 999px;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
   transition: var(--transicao);
-  display: inline-block;
 }
 
-.navbar-toggler-icon::before,
-.navbar-toggler-icon::after {
+.cabecalho .navbar-toggler-icon::before,
+.cabecalho .navbar-toggler-icon::after {
   content: "";
   position: absolute;
   left: 0;
-  width: 24px;
-  height: 2px;
-  background: var(--verde-primario);
+  width: 100%;
+  height: 3px;
+  background-color: var(--verde-primario);
+  border-radius: 999px;
   transition: var(--transicao);
 }
 
-.navbar-toggler-icon::before {
-  top: -7px;
+.cabecalho .navbar-toggler-icon::before {
+  top: -9px;
 }
 
-.navbar-toggler-icon::after {
-  top: 7px;
+.cabecalho .navbar-toggler-icon::after {
+  top: 9px;
 }
-
 
 @media (max-width: 767px) {
   .cabecalho {
