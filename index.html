@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 
 <head>
     <meta charset="UTF-8">
@@ -14,48 +14,112 @@
 </head>
 
 <body>
+
     <header id="header"></header>
-    <div class="container ">
-        <main class="principal">
-            <h1>RE: PLUG</h1>
-            <p>Você já parou para pensar no caminho que o seu antigo celular ou aquele computador velhinho faz
-                quando deixa de ser útil?
-                Muitas vezes, o destino final é um cenário preocupante,
-                mas a gente acredita que tecnologia e natureza podem (e devem) caminhar juntas.
-            </p>
+
+    <section class="hero-section">
+        <div class="container position-relative" style="z-index: 1;">
+            <div class="row align-items-center min-vh-85">
+                <div class="col-lg-7 py-5">
+                    <div class="hero-tag">
+                        <span></span> Reciclagem de Lixo Eletrônico
+                    </div>
+                    <h1 class="hero-titulo">
+                        RE:<br>
+                        <span class="destaque">PLUG</span>
+                    </h1>
+                    <p class="hero-descricao">
+                        Você já parou para pensar no caminho que o seu antigo celular faz quando deixa de ser útil?
+                        A gente acredita que tecnologia e natureza podem — e devem — caminhar juntas.
+                    </p>
+                    <div class="hero-botoes">
+                        <a href="#cenarios" class="btn-primario">
+                            Ver Cenários
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+                        </a>
+                        <a href="#" class="btn-secundario">
+                            Encontrar Pontos de Coleta
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="stats-bar">
+        <div class="container">
+            <div class="row text-center g-3">
+                <div class="col-6 col-md-3">
+                    <div class="stat-numero">62Mt</div>
+                    <div class="stat-label">Lixo eletrônico global/ano</div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="stat-numero">17%</div>
+                    <div class="stat-label">Taxa de reciclagem atual</div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="stat-numero">+8%</div>
+                    <div class="stat-label">Crescimento anual</div>
+                </div>
+                <div class="col-6 col-md-3">
+                    <div class="stat-numero">57</div>
+                    <div class="stat-label">Pontos de coleta ativos</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <main class="principal">
+        <div class="container">
+
             <div class="frase-efeito">
                 <p>"O lixo eletrônico é a vertente de resíduos que mais cresce no mundo,
                     mas também representa uma 'mina urbana' de recursos valiosos
                     que não podemos nos dar ao luxo de desperdiçar."</p>
-                <small> — Achim Steiner, ex-Diretor Executivo do PNUMA. (2009)</small>
-            </div><br>
-            <h2>Cenários:</h2>
-            <p>Ao observarmos as imagens, a mudança é nítida:
-                Ao lado esquerdo, vemos o impacto negativo do descarte incorreto.
-                À direita, contemplamos o resultado do descarte consciente e da reciclagem especializada:
-                um ambiente limpo, seguro e pronto para alimentar a economia circular.</p>
-            <div class="cenario d-flex flex-column flex-md-row justify-content-between">
-
-                <div class="card">
-                    <span>Antes:</span>
-                    <img class="imagem" src="/assests/imagens/lixos-acumulados.jpg"
-                        alt="Lixos elêtronicos lixos-acumulados">
-                    <small>Imagem gerada por <a
-                            href="https://www.magnific.com/br/imagem-ia-gratis/conceito-de-pessoa-que-sofre-de-ciberdoenca-e-dependencia-de-tecnologia_204412126.htm#fromView=keyword&page=1&position=4&uuid=23bfd2bc-063b-4882-b087-ceaac8f63226&query=Lixo+eletronico">magnific.com</a></a>
-                    </small>
-                </div>
-                <div class="card">
-                    <span>Depois:</span>
-                    <img class="imagem" src="/assests/imagens/ponto-coleta-green-eletron.jpg"
-                        alt="Ponto de Coleta da Green Eletron">
-
-                </div>
+                <small>— Achim Steiner, ex-Diretor Executivo do PNUMA (2009)</small>
             </div>
-        </main>
 
-    </div>
+            <section id="cenarios" class="secao-cenarios">
+                <h2 class="secao-titulo">Antes &amp; Depois</h2>
+                <p class="secao-subtitulo">
+                    A mudança é nítida: à esquerda, o impacto do descarte incorreto.
+                    À direita, o resultado do descarte consciente e da reciclagem especializada.
+                </p>
+
+                <div class="d-flex flex-column flex-md-row gap-4">
+                    <div class="card-cenario">
+                        <div class="card-badge">
+                            <span class="badge-antes">Antes</span>
+                        </div>
+                        <img class="imagem" src="/assets/imagens/lixo.jpg"
+                            alt="Lixos eletrônicos acumulados de forma incorreta">
+                        <div class="card-caption">
+                            Imagem gerada por <a
+                                href="https://www.magnific.com/br/imagem-ia-gratis/conceito-de-pessoa-que-sofre-de-ciberdoenca-e-dependencia-de-tecnologia_204412126.htm"
+                                target="_blank" rel="noopener">magnific.com</a>
+                        </div>
+                    </div>
+
+                    <div class="card-cenario">
+                        <div class="card-badge">
+                            <span class="badge-depois">Depois</span>
+                        </div>
+                        <img class="imagem" src="/assets/imagens/ponto-coleta-green-eletron.jpg"
+                            alt="Pontos de Coleta da Green Eletron — Descarte Consciente">
+                        <div class="card-caption">
+                            Pontos de Coleta da Green Eletron
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+    </main>
+
     <footer id="footer"></footer>
+
     <script type="module" src="include.js"></script>
+
 </body>
 
 </html>
